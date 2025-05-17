@@ -22,9 +22,7 @@ This repository contains the implementation of a **Healthcare Backend** using **
    - [Patients](#patients)
    - [Doctors](#doctors)
    - [Mappings](#mappings)
-7. [Testing](#testing)
-8. [Recommended Improvements](#recommended-improvements)
-9. [License](#license)
+
 
 ---
 

@@ -57,7 +57,7 @@ Follow these steps to spin up the backend locally:
 ### Clone the repo
 
 ```bash
-git clone https://github.com/<your-org>/healthcare_backend.git
+git clone https://github.com/Dhiraj274/healthcare_backend.git
 cd healthcare_backend
 ```
 
